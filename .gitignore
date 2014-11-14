@@ -1,3 +1,6 @@
+# Video files
+*.ts
+
 # Object files
 *.o
 *.ko
